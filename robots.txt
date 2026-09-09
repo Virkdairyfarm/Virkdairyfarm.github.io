@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://virkdairyfarm.github.io/sitemap.xml
